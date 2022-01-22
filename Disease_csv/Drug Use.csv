@@ -1,0 +1,32 @@
+,Location,Year,Age,Sex,Cause of death or injury,Risk factor,Measure,Value,Lower bound,Upper bound,Measure.1,Value.1,Lower bound.1,Upper bound.1,Measure.2,Value.2,Lower bound.2,Upper bound.2
+0,Jammu & Kashmir and Ladakh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",219.115016005656,173.810814201382,266.893735980581
+1,Arunachal Pradesh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",345.885705672275,258.955483030185,449.152967567461
+2,Uttarakhand,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",291.96173098991,234.912453993247,355.704040550291
+3,Himachal Pradesh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",333.958668606508,268.052724092825,412.043093328373
+4,Other Union Territories,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",330.172545467536,261.941345253885,414.39869688703
+5,Andhra Pradesh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",315.538267731829,252.737497018016,381.290629212351
+6,Assam,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",458.721673392465,343.148309158629,564.422021720164
+7,Delhi,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",357.820927614174,289.194196092092,431.230841658215
+8,Goa,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",380.360186012112,292.649457389331,487.180459208797
+9,Haryana,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",275.183440794645,227.223123728395,332.008819345479
+10,Karnataka,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",347.708655432896,281.604724009323,419.342510397232
+11,Kerala,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",256.56602671253,203.631388745993,317.594703437348
+12,Maharashtra,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",363.025804055442,298.154191899057,436.370724922828
+13,Manipur,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",566.102699648465,446.642784686192,717.565771602845
+14,Meghalaya,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",299.259408239228,224.926368194951,384.442228507495
+15,Mizoram,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",513.286282402249,408.981492916697,638.405097493029
+16,Nagaland,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",569.556010548565,450.064474454979,713.01510898275
+17,Odisha,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",262.904308050989,211.052605556127,316.905892370764
+18,Punjab,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",336.312219798415,271.197846926207,412.35771939536
+19,Rajasthan,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",227.199453830778,181.823139649858,275.826032121781
+20,Sikkim,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",402.91423138936,306.910129326848,515.596295885935
+21,Tamil Nadu,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",253.508497529183,204.603872662641,311.374737138056
+22,Tripura,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",311.681353558113,241.150030261116,395.78562771386
+23,West Bengal,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",268.981692626528,218.357975432529,324.663033753421
+24,Bihar,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",207.054174170078,166.638274373659,250.380773850356
+25,Chhattisgarh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",338.864651719359,272.573381627481,408.132112511615
+26,Jharkhand,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",225.946664353515,175.242113188704,288.394959494303
+27,Madhya Pradesh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",263.791246439756,215.882143127014,315.547233947449
+28,Uttar Pradesh,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",257.549443487126,207.34240627421,314.221187266665
+29,Gujarat,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",232.071491661621,187.928763158651,278.600414248339
+30,Telangana,2019,All ages,Both,All causes,Drug use,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",285.286721349919,228.857077827045,353.254397716353

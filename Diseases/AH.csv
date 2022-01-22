@@ -1,0 +1,31 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound,id
+Jammu & Kashmir and Ladakh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.410591326,1.360042867,3.586865165,1
+Arunachal Pradesh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",3.253862328,2.189396533,4.548437547,12
+Uttarakhand,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.973788385,1.483449921,2.591432353,5
+Himachal Pradesh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.579911639,0.852980107,2.353144707,2
+Andhra Pradesh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.522202862,1.408819033,3.839119171,28
+Assam,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",5.409589293,3.920478426,7.292504573,18
+Delhi,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.392004422,1.050498014,1.826650707,7
+Goa,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.174804189,0.86732139,1.612034536,30
+Haryana,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.413753358,0.990349004,2.059668157,6
+Karnataka,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.260424032,0.779953098,1.816518896,29
+Kerala,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",0.541027719,0.392413813,0.711657677,32
+Maharashtra,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.459613331,0.902357285,2.158620852,27
+Manipur,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.268613742,0.804383782,1.803724204,14
+Meghalaya,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.688526837,0.977689858,2.570131118,17
+Mizoram,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.129888297,1.390982944,2.953864052,15
+Nagaland,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",4.869854249,3.01432348,6.975246799,13
+Odisha,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",3.010717631,1.938098143,4.262956226,21
+Punjab,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.594363918,1.093911992,2.202164834,3
+Rajasthan,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.971507,1.114165136,2.981360997,8
+Sikkim,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",0.935290738,0.664465914,1.263959042,11
+Tamil Nadu,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",0.926588703,0.535663642,1.319121676,33
+Tripura,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.150171564,1.397381531,3.021658292,16
+West Bengal,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.333675758,1.76174858,3.095516067,19
+Bihar,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",3.243890517,2.140435542,4.803508322,10
+Chhattisgarh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.655180305,1.55097457,3.913225689,22
+Jharkhand,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.984790914,1.31804079,2.818422579,20
+Madhya Pradesh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.564049828,1.648437047,3.636825694,23
+Uttar Pradesh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.739703758,1.608959753,4.199445502,9
+Gujarat,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.64679628,1.213705039,2.285798239,24
+Telangana,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.127730403,1.158286782,3.33998197,0

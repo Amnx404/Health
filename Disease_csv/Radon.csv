@@ -1,0 +1,32 @@
+,Location,Year,Age,Sex,Cause of death or injury,Risk factor,Measure,Value,Lower bound,Upper bound,Measure.1,Value.1,Lower bound.1,Upper bound.1,Measure.2,Value.2,Lower bound.2,Upper bound.2
+0,Jammu & Kashmir and Ladakh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",19.0401074794464,2.16157438836024,51.1343561820608
+1,Arunachal Pradesh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",6.87766399309567,0.678772726666458,22.5965504948345
+2,Uttarakhand,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",11.4190337015258,2.1062133509658,28.5301108992098
+3,Himachal Pradesh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",28.4661791546225,4.84196709531914,64.7375633071485
+4,Other Union Territories,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",6.70180318340381,0.797682790486236,20.5134121083311
+5,Andhra Pradesh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",3.74074115645323,0.457869147583156,11.2197324204667
+6,Assam,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",8.90897116733679,1.23948359744045,25.5355323357581
+7,Delhi,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",6.34840716786697,0.816641467416728,18.3481425700429
+8,Goa,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.63717711271804,0.756412315544186,14.5170804277807
+9,Haryana,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",14.7108598712248,2.24943351189529,33.370325771877
+10,Karnataka,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",8.13058276521232,1.11244545933751,22.456184573207
+11,Kerala,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",13.7495945888112,1.86306517993375,38.1518022007709
+12,Maharashtra,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",6.12559566337596,0.853074926135309,16.3164558984955
+13,Manipur,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",17.5462716599993,1.96903293560816,48.3966722919123
+14,Meghalaya,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",4.85184480821927,0.804280446059715,13.2435361659406
+15,Mizoram,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",31.9026267278436,4.27515810883167,79.3037897391242
+16,Nagaland,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.84791088480972,0.762466365832539,16.1279296076976
+17,Odisha,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.96332559935471,0.745797079093359,18.9716203154947
+18,Punjab,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",13.7843531351516,2.24161002018205,32.3765466147921
+19,Rajasthan,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",7.80820715935984,1.16796407690362,22.4108781678523
+20,Sikkim,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",15.2372892854734,2.08842027889083,42.1127666270087
+21,Tamil Nadu,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.92953881054409,0.883089525010567,17.4351709264275
+22,Tripura,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",10.2506763399789,1.22165089433213,30.667042806078
+23,West Bengal,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",8.44407860976289,1.06204766655204,24.3865675476414
+24,Bihar,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.56360160498943,0.634558490434139,15.5362136962664
+25,Chhattisgarh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",3.91604316402503,0.54694152481402,10.409281955886
+26,Jharkhand,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",4.4194875330974,0.574948186015254,12.5924751847014
+27,Madhya Pradesh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",8.67497278251019,1.23139225780253,24.0976612091177
+28,Uttar Pradesh,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.28503283330382,0.743019275207242,15.7877145756662
+29,Gujarat,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",7.29486995516764,0.944504979121886,20.4738479203908
+30,Telangana,2019,All ages,Both,All causes,Residential radon,"Deaths per 100,000",0,0,0,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.72671881505791,0.797199912471006,16.1043908211968
