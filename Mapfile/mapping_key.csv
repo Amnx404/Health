@@ -1,31 +1,31 @@
-,state_mapper,Location
-0,1,Jammu & Kashmir and Ladakh
-1,12,Arunachal Pradesh
-2,5,Uttarakhand
-3,2,Himachal Pradesh
-4,28,Andhra Pradesh
-5,18,Assam
-6,7,Delhi
-7,30,Goa
-8,6,Haryana
-9,29,Karnataka
-10,32,Kerala
-11,27,Maharashtra
-12,14,Manipur
-13,17,Meghalaya
-14,15,Mizoram
-15,13,Nagaland
-16,21,Odisha
-17,3,Punjab
-18,8,Rajasthan
-19,11,Sikkim
-20,33,Tamil Nadu
-21,16,Tripura
-22,19,West Bengal
-23,10,Bihar
-24,22,Chhattisgarh
-25,20,Jharkhand
-26,23,Madhya Pradesh
-27,9,Uttar Pradesh
-28,24,Gujarat
-29,0,Telangana
+state_mapper,Location
+1,Jammu & Kashmir and Ladakh
+12,Arunachal Pradesh
+5,Uttarakhand
+2,Himachal Pradesh
+28,Andhra Pradesh
+18,Assam
+7,Delhi
+30,Goa
+6,Haryana
+29,Karnataka
+32,Kerala
+27,Maharashtra
+14,Manipur
+17,Meghalaya
+15,Mizoram
+13,Nagaland
+21,Odisha
+3,Punjab
+8,Rajasthan
+11,Sikkim
+33,Tamil Nadu
+16,Tripura
+19,West Bengal
+10,Bihar
+22,Chhattisgarh
+20,Jharkhand
+23,Madhya Pradesh
+9,Uttar Pradesh
+24,Gujarat
+0,Telangana
