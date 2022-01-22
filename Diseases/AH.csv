@@ -1,4 +1,4 @@
-Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound,id
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound,state_mapper
 Jammu & Kashmir and Ladakh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",2.410591326,1.360042867,3.586865165,1
 Arunachal Pradesh,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",3.253862328,2.189396533,4.548437547,12
 Uttarakhand,2019,All ages,Both,Acute hepatitis,"Deaths per 100,000",1.973788385,1.483449921,2.591432353,5
