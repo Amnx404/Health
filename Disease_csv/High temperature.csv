@@ -1,0 +1,32 @@
+,Location,Year,Age,Sex,Risk factor,Measure,Value,Lower bound,Upper bound,"YLDs per 100,000",0,0.1,0.2,Measure.1,Value.1,Lower bound.1,Upper bound.1
+0,Jammu & Kashmir and Ladakh,2019,All ages,Both,High temperature,"Deaths per 100,000",0.179536,0.066974,0.375644,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.83385,2.640093,11.86907
+1,Arunachal Pradesh,2019,All ages,Both,High temperature,"Deaths per 100,000",0.119004,0.036899,0.39256,"YLDs per 100,000",0,0,0,"DALYs per 100,000",5.973265,2.076618,19.65003
+2,Uttarakhand,2019,All ages,Both,High temperature,"Deaths per 100,000",0.784441,0.332239,1.550314,"YLDs per 100,000",0,0,0,"DALYs per 100,000",25.1454,12.34243,45.66284
+3,Himachal Pradesh,2019,All ages,Both,High temperature,"Deaths per 100,000",0.572188,0.196829,1.34589,"YLDs per 100,000",0,0,0,"DALYs per 100,000",14.81313,5.987775,32.43526
+4,Other Union Territories,2019,All ages,Both,High temperature,"Deaths per 100,000",6.845831,4.291024,11.73109,"YLDs per 100,000",0,0,0,"DALYs per 100,000",200.0655,125.8282,353.1923
+5,Andhra Pradesh,2019,All ages,Both,High temperature,"Deaths per 100,000",15.98875,10.03695,25.4381,"YLDs per 100,000",0,0,0,"DALYs per 100,000",419.3029,270.0078,668.7622
+6,Assam,2019,All ages,Both,High temperature,"Deaths per 100,000",3.554103,1.618874,6.740326,"YLDs per 100,000",0,0,0,"DALYs per 100,000",157.8102,78.97831,298.8601
+7,Delhi,2019,All ages,Both,High temperature,"Deaths per 100,000",5.788731,2.126272,9.844971,"YLDs per 100,000",0,0,0,"DALYs per 100,000",176.3457,80.34731,292.8293
+8,Goa,2019,All ages,Both,High temperature,"Deaths per 100,000",2.513136,0.834989,5.244837,"YLDs per 100,000",0,0,0,"DALYs per 100,000",69.26517,24.32695,147.8496
+9,Haryana,2019,All ages,Both,High temperature,"Deaths per 100,000",7.966469,3.633312,12.82081,"YLDs per 100,000",0,0,0,"DALYs per 100,000",271.539,149.2181,422.8955
+10,Karnataka,2019,All ages,Both,High temperature,"Deaths per 100,000",6.281973,3.93014,9.98801,"YLDs per 100,000",0,0,0,"DALYs per 100,000",197.4858,127.3322,319.9464
+11,Kerala,2019,All ages,Both,High temperature,"Deaths per 100,000",5.158733,2.496193,8.739116,"YLDs per 100,000",0,0,0,"DALYs per 100,000",131.7293,65.26659,239.8851
+12,Maharashtra,2019,All ages,Both,High temperature,"Deaths per 100,000",8.416898,5.332623,12.95347,"YLDs per 100,000",0,0,0,"DALYs per 100,000",235.4575,158.6607,352.1953
+13,Manipur,2019,All ages,Both,High temperature,"Deaths per 100,000",0.190237,0.016225,1.046823,"YLDs per 100,000",0,0,0,"DALYs per 100,000",8.655805,0.926677,47.50833
+14,Meghalaya,2019,All ages,Both,High temperature,"Deaths per 100,000",0.787585,0.371378,1.69356,"YLDs per 100,000",0,0,0,"DALYs per 100,000",36.62296,16.19787,86.90105
+15,Mizoram,2019,All ages,Both,High temperature,"Deaths per 100,000",0.885154,0.237543,2.850811,"YLDs per 100,000",0,0,0,"DALYs per 100,000",41.27245,13.43758,118.9362
+16,Nagaland,2019,All ages,Both,High temperature,"Deaths per 100,000",0.578786,0.211067,1.502017,"YLDs per 100,000",0,0,0,"DALYs per 100,000",27.52989,10.76661,72.21391
+17,Odisha,2019,All ages,Both,High temperature,"Deaths per 100,000",6.450293,4.36114,9.939983,"YLDs per 100,000",0,0,0,"DALYs per 100,000",218.4218,144.0842,386.1475
+18,Punjab,2019,All ages,Both,High temperature,"Deaths per 100,000",7.537397,2.918877,13.41683,"YLDs per 100,000",0,0,0,"DALYs per 100,000",217.6654,98.37519,372.6533
+19,Rajasthan,2019,All ages,Both,High temperature,"Deaths per 100,000",13.36659,7.278059,24.05226,"YLDs per 100,000",0,0,0,"DALYs per 100,000",515.2789,327.256,883.9712
+20,Sikkim,2019,All ages,Both,High temperature,"Deaths per 100,000",0.00012,-1.2e-05,0.000813,"YLDs per 100,000",0,0,0,"DALYs per 100,000",0.005924,0.0,0.033924
+21,Tamil Nadu,2019,All ages,Both,High temperature,"Deaths per 100,000",18.40362,11.88603,28.86195,"YLDs per 100,000",0,0,0,"DALYs per 100,000",518.9245,340.2962,887.1397
+22,Tripura,2019,All ages,Both,High temperature,"Deaths per 100,000",5.010208,2.23649,9.086262,"YLDs per 100,000",0,0,0,"DALYs per 100,000",161.2864,82.30606,276.5378
+23,West Bengal,2019,All ages,Both,High temperature,"Deaths per 100,000",7.493683,4.249804,11.38849,"YLDs per 100,000",0,0,0,"DALYs per 100,000",232.8,144.0902,355.331
+24,Bihar,2019,All ages,Both,High temperature,"Deaths per 100,000",7.227333,4.306681,10.49944,"YLDs per 100,000",0,0,0,"DALYs per 100,000",299.0243,200.0682,416.5245
+25,Chhattisgarh,2019,All ages,Both,High temperature,"Deaths per 100,000",9.784209,6.87997,14.31297,"YLDs per 100,000",0,0,0,"DALYs per 100,000",336.0418,238.5566,530.8276
+26,Jharkhand,2019,All ages,Both,High temperature,"Deaths per 100,000",4.375682,2.584126,6.645718,"YLDs per 100,000",0,0,0,"DALYs per 100,000",162.8114,100.8009,246.4393
+27,Madhya Pradesh,2019,All ages,Both,High temperature,"Deaths per 100,000",8.420896,5.37201,12.39379,"YLDs per 100,000",0,0,0,"DALYs per 100,000",330.2474,224.0725,485.6408
+28,Uttar Pradesh,2019,All ages,Both,High temperature,"Deaths per 100,000",9.764481,5.494693,14.50683,"YLDs per 100,000",0,0,0,"DALYs per 100,000",386.1894,256.7473,556.6171
+29,Gujarat,2019,All ages,Both,High temperature,"Deaths per 100,000",13.18003,8.125513,20.52359,"YLDs per 100,000",0,0,0,"DALYs per 100,000",412.4522,272.5785,624.2259
+30,Telangana,2019,All ages,Both,High temperature,"Deaths per 100,000",11.26256,7.095424,17.90128,"YLDs per 100,000",0,0,0,"DALYs per 100,000",322.0811,211.622,514.2229
